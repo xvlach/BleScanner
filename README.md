@@ -2,7 +2,7 @@
 
 Elegant, modular C++ application for scanning and connecting to a BLE device, sending a ChaCha20/ChaCha20-Poly1305/AES-GCM 256 request, decrypting the response and displaying everything in an ImGui GUI. Computing complex statistics from the transmission.
 
-Paired application to the application for STM32WB: https://github.com/xvlach/BleSTM32WB.git
+Paired application to the application for STM32WB: https://github.com/xvlach/BleSTM32WB
 
 ---
 
@@ -186,7 +186,7 @@ If you need assistance, feel free to reach out: [xvlach23@vutbr.cz](mailto\:xvla
 
 Elegantní, modulární C++ aplikace pro vyhledávání a připojení k BLE zařízení, odesílání ChaCha20/ChaCha20-Poly1305/AES-GCM 256 požadavku, dešifrování odpovědi a vykreslení v ImGui GUI. Počítání komplexních statistic z přenosu. 
 
-Párová aplikace k aplikaci pro STM32WB: https://github.com/xvlach/BleSTM32WB.git
+Párová aplikace k aplikaci pro STM32WB: https://github.com/xvlach/BleSTM32WB
 
 ---
 
