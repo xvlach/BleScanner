@@ -104,6 +104,7 @@ BleScanner/
 6. **Click** **Stop BLE** to disconnect and return to “Ready”. Compute statistics and display in console.
 
 **Note**
+
 If we want to change the primary method of time measurement, it can be done in the "constants.h" file using the "meastureAllTime" variable. The default method of time measurement is used for pure data transfer, without any connection overhead.
 
 ---
@@ -288,7 +289,9 @@ BleScanner/
 6. **Klikněte** na **Stop BLE** pro odpojení a návrat do stavu „Ready“. Statistiky se vypočítají a zobrazí v konzoli.
 
 **Poznámka**
+
 Pokud chceme změnit základní metodu měření času, je to možné provést v rámci souboru "constants.h" a proměnné "meastureAllTime", základní metoda měření času probíhá pro čistý přenost dat, bez režije pro spojení.
+
 ---
 
 ## 🧩 Jak to funguje
@@ -358,6 +361,6 @@ Pokud chceme změnit základní metodu měření času, je to možné provést v
 
 ---
 
-## 📝 Contact
+## 📝 Kontakt
 
 Potřebuješ s něčím pomoc, můžeš mi napsat na xvlach23@vutbr.cz.
