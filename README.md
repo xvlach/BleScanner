@@ -178,7 +178,7 @@ If we want to change the primary method of time measurement, it can be done in t
 
 ## 📝 Contact
 
-If you need help with anything or have a question, email me xvlach23@vutbr.cz.
+If you need assistance, feel free to reach out: [xvlach23@vutbr.cz](mailto\:xvlach23@vutbr.cz)
 
 ---
 
@@ -363,4 +363,4 @@ Pokud chceme změnit základní metodu měření času, je to možné provést v
 
 ## 📝 Kontakt
 
-Potřebuješ s něčím pomoc, můžeš mi napsat na xvlach23@vutbr.cz.
+Potřebuješ s něčím pomoc, můžeš mi napsat na: [xvlach23@vutbr.cz](mailto\:xvlach23@vutbr.cz).
