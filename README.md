@@ -1,4 +1,4 @@
-# BLE Scanner with ImGui
+# BLE Scanner with ImGui (English)
 
 Elegant, modular C++ application for scanning and connecting to a BLE device, sending a ChaCha20/ChaCha20-Poly1305/AES-GCM 256 request, decrypting the response and displaying everything in an ImGui GUI. Computing complex statistics from the transmission.
 
