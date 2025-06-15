@@ -363,4 +363,4 @@ Pokud chceme změnit základní metodu měření času, je to možné provést v
 
 ## 📝 Kontakt
 
-Potřebuješ s něčím pomoc, můžeš mi napsat na: [xvlach23@vutbr.cz](mailto\:xvlach23@vutbr.cz).
+Potřebuješ s něčím pomoc, můžeš mi napsat na: [xvlach23@vutbr.cz](mailto\:xvlach23@vutbr.cz)
